@@ -1,0 +1,12 @@
+D:\Cong-20-03-2024\C#\Lzma\obj\Debug\Lzma.csproj.AssemblyReference.cache
+D:\Cong-20-03-2024\C#\Lzma\obj\Debug\Lzma.csproj.CoreCompileInputs.cache
+D:\Cong-20-03-2024\C#\Lzma\bin\Debug\Lzma.net.dll
+D:\Cong-20-03-2024\C#\Lzma\bin\Debug\Lzma.net.pdb
+D:\Cong-20-03-2024\C#\Lzma\obj\Debug\Lzma.net.dll
+D:\Cong-20-03-2024\C#\Lzma\obj\Debug\Lzma.net.pdb
+D:\Cong-20-03-2024\GitHub\LzmaStream\Lzma\bin\Debug\Lzma.net.dll
+D:\Cong-20-03-2024\GitHub\LzmaStream\Lzma\bin\Debug\Lzma.net.pdb
+D:\Cong-20-03-2024\GitHub\LzmaStream\Lzma\obj\Debug\Lzma.csproj.AssemblyReference.cache
+D:\Cong-20-03-2024\GitHub\LzmaStream\Lzma\obj\Debug\Lzma.csproj.CoreCompileInputs.cache
+D:\Cong-20-03-2024\GitHub\LzmaStream\Lzma\obj\Debug\Lzma.net.dll
+D:\Cong-20-03-2024\GitHub\LzmaStream\Lzma\obj\Debug\Lzma.net.pdb
