@@ -1,2 +1,2 @@
-# LzmaStream
+# c# LzmaStream compress data
  
